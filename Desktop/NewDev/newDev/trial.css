@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+.Container1 {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+.logo {
+    color: white;
+    font-size: 20px;
+}
+
+.buttons {
+    height: 20px;
+    margin-top: 50px;
+    margin-left: 50%;
+    flex-direction: row;
+}
+
+.spans {
+    color: chocolate;
+}
+
+.Container2 {
+    background-color: white;
+    height: 200px;
+    width: 100%;
+    color: white;
+    box-sizing: border-box;
+}
+
+.Container3 {
+    background-image: url(HP.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    color: white;
+}
+
+.space1 {
+    background-color: rgb(42, 75, 165);
+    height: 80px;
+    width: 50%;
+    box-sizing: border-box;
+    color: white;
+    margin-left: 25%;
+    margin-top: 115px;
+    border-radius: 20px;
+}
